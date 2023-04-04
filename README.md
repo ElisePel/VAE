@@ -1,6 +1,6 @@
 # Variationnal AutoEncoders
 
-The model is implemented in tensorflow and trained on a 2D dataset with horseshoes. The encoders are 5 convolutional networks followed by a max pooling layer. The decoder is a simple MLP. Please refer to model.py for more details.
+The model is implemented in tensorflow and trained on a 2D dataset with horseshoes. The encoders are 5 convolutional networks followed by a max pooling layer. The decoder is a simple MLP. Please refer to  [model.py](VAE/model.py) for more details.
 
 ## Implementation
 ### Reconstruction:
